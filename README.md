@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SinghalChinmay
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python and html
+- 👀 I’m interested in python and web development 
+- 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on python projects!
 - 📫 How to reach me ...
 
