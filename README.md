@@ -1,14 +1,33 @@
 - 👋 Hi, I’m Chinmay
-- 👀 I’m interested in python and web development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on python and web development projects!
 - 🖐 Reach me at discord: Chinmay#3750
 
-<img src="https://api.daily.dev/devcards/340eb01c078943b3a5022cfaecd98081.png?r=3gh" width="300" alt="Chinmay's Dev Card"/>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=singhalchinmay&show_icons=true&hide_border=true&theme=github_dark" alt="Github Stats" />
+</div>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=singhalchinmay&show_icons=true&hide_border=true&theme=github_dark)
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SinghalChinmay&theme=solarized_dark" alt="graph stats">
+</div>
 
-![streak stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SinghalChinmay&theme=solarized_dark)
+<br>
+
+<div align="center">
+
+<h2>Languages and Tools that I use</h2>
+
+<img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+<img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
+<img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+<img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
+
+</div>
 
 <!---
 SinghalChinmay/SinghalChinmay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
