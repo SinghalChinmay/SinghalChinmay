@@ -4,7 +4,7 @@
 - 🖐 Reach me at discord: Chinmay#3750
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=singhalchinmay&show_icons=true&hide_border=true&theme=github_dark" alt="Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=singhalchinmay&show_icons=true&hide_border=true&theme=onedark" alt="Github Stats" />
 </div>
 
 <div align="center">
