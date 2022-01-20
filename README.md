@@ -4,11 +4,11 @@
 - 🖐 Reach me at discord: Chinmay#3750
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=singhalchinmay&show_icons=true&hide_border=true&theme=onedark" alt="Github Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SinghalChinmay&theme=solarized_dark" alt="graph stats">
 </div>
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SinghalChinmay&theme=solarized_dark" alt="graph stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinghalChinmay&layout=compact&langs_count=8&theme=onedark" alt="Github Stats" />
 </div>
 
 <br>
