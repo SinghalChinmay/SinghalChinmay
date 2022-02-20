@@ -1,10 +1,6 @@
 <div align="center"><h1>Hii! :wave:, I am Chinmay</h1></div>
 <h3>I am a programmer who loves competitive programming and web development!</h3>
 
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=singhalchinmay&style=flat-square&color=blue" alt="profile views">
-</div>
-
 <br>
 
 - 🌱 I’m currently learning web development
@@ -15,30 +11,30 @@
 
 <div align="left">
 
-<h2>Languages and Tools that I use</h2>
+<h2>Programming languages</h2>
 
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
 
 </div>
 
-<br>
-<br>
+<div>
+<h2>Tools</h2>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg"></code>
+</div>
 
+<br>
+<h2>Github Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=singhalchinmay&show_icons=true&hide_border=true&theme=onedark" alt="graph stats">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinghalChinmay&layout=compact&langs_count=8&theme=onedark" alt="Github Stats" width="500px">
 
-<br>
-
-<br>
 
 <!---
 SinghalChinmay/SinghalChinmay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
