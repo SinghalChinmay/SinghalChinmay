@@ -3,7 +3,7 @@
 
 <br>
 
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning C-language
 - 💞️ I’m looking to collaborate on python and web development projects!
 - 🖐 Reach me at discord: Chinmay#3750
 
