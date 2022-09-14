@@ -1,5 +1,4 @@
 <div align="center"><h1>Hii! :wave:, I am Chinmay</h1></div>
-<h3>I am a programmer who loves competitive programming and web development!</h3>
 
 <br>
 
