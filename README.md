@@ -2,9 +2,9 @@
 
 <br>
 
-- 🌱 I’m currently learning C-language
-- 💞️ I’m looking to collaborate on python and web development projects!
-- 🖐 Reach me at discord: Chinmay#3750
+-   🌱 I’m currently learning C-language
+-   💞️ I’m looking to collaborate on python and web development projects!
+-   🖐 Reach me at discord: Chinmay#3750
 
 <br>
 
@@ -34,7 +34,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=singhalchinmay&show_icons=true&hide_border=true&theme=onedark" alt="graph stats">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinghalChinmay&layout=compact&langs_count=8&theme=onedark" alt="Github Stats" width="500px">
-
 
 <!---
 SinghalChinmay/SinghalChinmay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
