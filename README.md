@@ -8,7 +8,7 @@
 
 <br>
 
-<div align="left">
+<div>
 
 <h2>Tech Stack</h2>
 
