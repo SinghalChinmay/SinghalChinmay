@@ -13,7 +13,7 @@
 <h2>Tech Stack</h2>
 
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+<!-- <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code> -->
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
