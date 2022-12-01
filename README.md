@@ -2,7 +2,7 @@
 
 <br>
 
--   🌱 I’m currently learning Vue.js
+-   🌱 I’m currently learning React.js
 -   💞️ I’m looking to collaborate on python and web development projects!
 -   🖐 Reach me at discord: Chinmay#3750
 
@@ -19,6 +19,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></code>
 
 </div>
 
