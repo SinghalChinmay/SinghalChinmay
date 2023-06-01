@@ -22,9 +22,9 @@
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg"></code>
+<code style="background-color: white;"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg"></code>
 
-<!-- <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"></code> -->
+<!-- <code style="background-color: white;"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"></code> -->
 <!-- <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain-wordmark.svg"></code> -->
 <!-- <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"></code> -->
 
