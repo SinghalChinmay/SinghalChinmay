@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning React.js <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" align="center">
 - 💞️ I’m looking to collaborate on Python and Web development projects!
-- 🖐 Reach me at Discord: [Chinmay#3750](discord.com/users/808340551241957397)
+- 🖐 Reach me at Discord: [chinmay.s](https://discord.com/users/808340551241957397)
 
 <br>
 
